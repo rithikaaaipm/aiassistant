@@ -1,0 +1,7 @@
+.env
+db_storage/
+__pycache__/
+*.pdf
+*.txt
+!requirements.txt
+!README.md
